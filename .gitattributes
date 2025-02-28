@@ -1,0 +1,2 @@
+assets/*.MP3 filter=lfs diff=lfs merge=lfs -text
+assets/*.WAV filter=lfs diff=lfs merge=lfs -text
